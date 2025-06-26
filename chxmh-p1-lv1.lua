@@ -1,1 +1,1 @@
-print("Decrypted-Lv1 🟢 ")
+print("🟢 Decrypted-Lv1")
