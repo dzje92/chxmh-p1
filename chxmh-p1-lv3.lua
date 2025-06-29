@@ -1,1 +1,1 @@
-print("Script Decoding Test - Level 3")
+print("🟢 Script Decoding Test - Level 3")
