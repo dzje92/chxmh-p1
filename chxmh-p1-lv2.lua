@@ -1,1 +1,1 @@
-print("🟢 Decrypted-Lv2")
+print("🟢 script decoding performance test - level 1")
